@@ -1,0 +1,1 @@
+SOLIDWORKS hardware certification data
