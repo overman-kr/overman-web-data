@@ -1,0 +1,26 @@
+{
+  "meta": { ... },
+  "filters": {
+    "vendors": [...],
+    "models": [...],
+    "operatingSystems": [...],
+    "gpus": [...],
+    "solidworksVersions": [...],
+    "grades": ["미분류", "최소", "중간", "상급", "최상급"]
+  },
+  "records": [
+    {
+      "vendor": "HP",
+      "model": "HP ZBook Firefly 14 inch G10 A Mobile Workstation PC",
+      "os": "Windows 11",
+      "gpu": "AMD Radeon™ Graphics",
+      "swVersion": 2026,
+      "driver": "AMD 25.Q3.1",
+      "driverUrl": "...",
+      "testNote": "Minimum Supported Version: AMD 25.Q3.1",
+      "sourcePage": 1,
+      "sourceRow": 1,
+      "grade": "미분류"
+    }
+  ]
+}
